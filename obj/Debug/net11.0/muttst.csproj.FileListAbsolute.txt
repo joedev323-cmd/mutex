@@ -1,0 +1,16 @@
+C:\Users\Joe\Desktop\muttst\bin\Debug\net11.0\muttst.exe
+C:\Users\Joe\Desktop\muttst\bin\Debug\net11.0\muttst.deps.json
+C:\Users\Joe\Desktop\muttst\bin\Debug\net11.0\muttst.runtimeconfig.json
+C:\Users\Joe\Desktop\muttst\bin\Debug\net11.0\muttst.runtimeconfig.dev.json
+C:\Users\Joe\Desktop\muttst\bin\Debug\net11.0\muttst.dll
+C:\Users\Joe\Desktop\muttst\bin\Debug\net11.0\muttst.pdb
+C:\Users\Joe\Desktop\muttst\obj\Debug\net11.0\muttst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joe\Desktop\muttst\obj\Debug\net11.0\muttst.AssemblyInfoInputs.cache
+C:\Users\Joe\Desktop\muttst\obj\Debug\net11.0\muttst.AssemblyInfo.cs
+C:\Users\Joe\Desktop\muttst\obj\Debug\net11.0\muttst.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\muttst\obj\Debug\net11.0\muttst.dll
+C:\Users\Joe\Desktop\muttst\obj\Debug\net11.0\refint\muttst.dll
+C:\Users\Joe\Desktop\muttst\obj\Debug\net11.0\muttst.pdb
+C:\Users\Joe\Desktop\muttst\obj\Debug\net11.0\muttst.genruntimeconfig.cache
+C:\Users\Joe\Desktop\muttst\obj\Debug\net11.0\ref\muttst.dll
+C:\Users\Joe\Desktop\muttst\obj\Debug\net11.0\muttst.csproj.Up2Date
